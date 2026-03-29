@@ -10,6 +10,12 @@ This repository contains API testing practice using Postman.
 - Status code testing
 - Basic bug documentation
 
+## Planned Repository Structure
+
+- /collections
+- /test-scenarios
+- /bug-reports
+
 ## Tools
 
 - Postman
